@@ -1,0 +1,334 @@
+
+Grid.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+graph
+  rotate: false
+  xy: 1, 721
+  size: 115, 300
+  orig: 115, 300
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 118, 821
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Lock
+  rotate: false
+  xy: 320, 806
+  size: 160, 215
+  orig: 160, 215
+  offset: 0, 0
+  index: -1
+graph2
+  rotate: false
+  xy: 1, 469
+  size: 100, 250
+  orig: 100, 250
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 482, 871
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+starTile
+  rotate: false
+  xy: 634, 871
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+TrackTileDark
+  rotate: false
+  xy: 786, 901
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TrackTileFlat
+  rotate: false
+  xy: 1, 347
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TrackTileFlatLight
+  rotate: false
+  xy: 1, 225
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TrackTileFlatLight2
+  rotate: false
+  xy: 1, 103
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TrackTileFlatter
+  rotate: false
+  xy: 118, 699
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+TrackTilePlain
+  rotate: false
+  xy: 103, 577
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 908, 921
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+barSide
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 103, 475
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+circle2
+  rotate: false
+  xy: 123, 373
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 123, 271
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquare
+  rotate: false
+  xy: 123, 169
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareButton
+  rotate: false
+  xy: 123, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Triangle
+  rotate: false
+  xy: 240, 730
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+DiSquareCross
+  rotate: false
+  xy: 317, 704
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareCrossDark
+  rotate: false
+  xy: 482, 769
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareDark
+  rotate: false
+  xy: 584, 769
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareDark2
+  rotate: false
+  xy: 686, 769
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareDarkFlat
+  rotate: false
+  xy: 788, 799
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pauseBar
+  rotate: false
+  xy: 419, 704
+  size: 40, 100
+  orig: 40, 100
+  offset: 0, 0
+  index: -1
+DiSquareDarkFlatter
+  rotate: false
+  xy: 461, 667
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareDarkRim
+  rotate: false
+  xy: 563, 667
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareInvert
+  rotate: false
+  xy: 665, 667
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DiSquareInvert2
+  rotate: false
+  xy: 205, 475
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+fuzz
+  rotate: false
+  xy: 225, 373
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+halfShadow
+  rotate: false
+  xy: 225, 271
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+halfShadow2
+  rotate: false
+  xy: 225, 169
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shadowSq
+  rotate: false
+  xy: 225, 67
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 788, 697
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+squareOutline
+  rotate: false
+  xy: 908, 819
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TopTriangle
+  rotate: false
+  xy: 890, 717
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wallShadowCornerBL
+  rotate: false
+  xy: 890, 615
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wallShadowCornerBR
+  rotate: false
+  xy: 225, 597
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wallShadowCornerTL
+  rotate: false
+  xy: 327, 602
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wallShadowCornerTR
+  rotate: false
+  xy: 429, 565
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wallShadowSide
+  rotate: false
+  xy: 531, 565
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wallShadowTop
+  rotate: false
+  xy: 633, 565
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 735, 575
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+SquareScrap
+  rotate: false
+  xy: 735, 494
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+BarBar
+  rotate: false
+  xy: 103, 35
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+crossFat
+  rotate: false
+  xy: 819, 503
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
